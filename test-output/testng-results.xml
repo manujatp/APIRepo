@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1741" started-at="2019-05-09T09:05:53Z" finished-at="2019-05-09T09:05:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1741" started-at="2019-05-09T09:05:53Z" finished-at="2019-05-09T09:05:55Z">
+      <class name="com.rest.qa.tests.GetAPITest">
+        <test-method status="PASS" signature="ConfigFileRead()[pri:0, instance:com.rest.qa.tests.GetAPITest@48eff760]" name="ConfigFileRead" is-config="true" duration-ms="7" started-at="2019-05-09T19:05:53Z" finished-at="2019-05-09T19:05:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigFileRead -->
+        <test-method status="PASS" signature="get()[pri:0, instance:com.rest.qa.tests.GetAPITest@48eff760]" name="get" duration-ms="1153" started-at="2019-05-09T19:05:53Z" finished-at="2019-05-09T19:05:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get -->
+        <test-method status="PASS" signature="getWithHeaders()[pri:0, instance:com.rest.qa.tests.GetAPITest@48eff760]" name="getWithHeaders" duration-ms="566" started-at="2019-05-09T19:05:54Z" finished-at="2019-05-09T19:05:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWithHeaders -->
+      </class> <!-- com.rest.qa.tests.GetAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
